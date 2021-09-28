@@ -18,7 +18,7 @@ reg.validate({
   },
 
   messages: {
-    username: {
+    Username: {
       required: "This field is required.",
     },
   },
